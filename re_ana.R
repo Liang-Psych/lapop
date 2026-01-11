@@ -2,6 +2,17 @@ library(tidyverse)
 library(lmtest) # 用于稳健标准误
 library(sandwich) # 用于稳健标准误
 library(psych)
+library(haven)
+library(data.table)
+library(sf)
+library(broom)
+library(conflicted)
+conflicts_prefer(dplyr::select)
+conflicts_prefer(dplyr::filter)
+conflicts_prefer(dplyr::first)
+conflicts_prefer(lubridate::year)
+conflicts_prefer(lubridate::month)
+conflicts_prefer(lubridate::wday)
 
 
 source("~/Rcode/lapop/lapop_23.R", echo=TRUE)
