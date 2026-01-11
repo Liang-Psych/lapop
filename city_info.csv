@@ -1,0 +1,108 @@
+state_id city_id state_name city_name
+1529 152910800 Bahia "Feira De Santana"
+1529 152927408 Bahia Salvador
+1543 154317103 "Rio Grande do Sul" "Sant'ana Do Livramento"
+1543 154316907 "Rio Grande do Sul" "Santa Maria"
+1543 154302808 "Rio Grande do Sul" "Caçapava Do Sul"
+1531 153106200 "Minas Gerais" "Belo Horizonte"
+1552 155215231 Goiás "Novo Gama"
+1553 155300108 "Distrito Federal" Brasília
+1526 152612604 Pernambuco "Santa Maria da Boa Vista"
+1525 152507507 Paraiba "João Pessoa"
+1526 152611101 Pernambuco Petrolina
+1515 151501402 Pará Belém
+1527 152708907 Alagoas Satuba
+1528 152802908 Sergipe Itabaiana
+1526 152611606 Pernambuco Recife
+1526 152604106 Pernambuco Caruaru
+1526 152607901 Pernambuco "Jaboatão Dos Guararapes"
+1511 151100452 Rondônia Buritis
+1511 151100205 Rondônia "Porto Velho"
+1533 153301702 "Rio de Janeiro" "Duque De Caxias"
+1533 153304557 "Rio de Janeiro" "Rio De Janeiro"
+1533 153300456 "Rio de Janeiro" "Belford Roxo"
+1533 153304144 "Rio de Janeiro" Queimados
+1521 152111300 Maranhão "São Luís"
+1521 152105302 Maranhão Imperatriz
+1529 152933208 Bahia "Vera Cruz"
+1521 152112902 Maranhão "Vitória Do Mearim"
+1542 154209102 "Santa Catarina" Joinville
+1542 154208302 "Santa Catarina" Itapema
+1525 152500601 Paraiba Alhandra
+1525 152515005 Paraiba "São Miguel De Taipu"
+1525 152504603 Paraiba Conde
+1535 153550308 "São Paulo" "São Paulo"
+1535 153520509 "São Paulo" Indaiatuba
+1541 154106902 Paraná Curitiba
+1535 153522703 "São Paulo" Itápolis
+1535 153521101 "São Paulo" Ipeúna
+1552 155201405 Goiás "Aparecida de Goiânia"
+1551 155106208 "Mato Grosso" "Nova Brasilândia"
+1552 155204805 Goiás "Campo Alegre De Goiás"
+1543 154318309 "Rio Grande do Sul" "São Gabriel"
+1543 154322608 "Rio Grande do Sul" "Venâncio Aires"
+1543 154320404 "Rio Grande do Sul" "Serafina Corrêa"
+1515 151506708 Pará "Santana Do Araguaia"
+1512 151200401 Acre "Rio Branco"
+1541 154113700 Paraná Londrina
+1513 151302603 Amazonas Manaus
+1513 151302553 Amazonas Manaquiri
+1514 151400100 Roraima "Boa Vista"
+1551 155103403 "Mato Grosso" Cuiabá
+1550 155003207 "Mato Grosso do Sul" Corumbá
+1550 155001102 "Mato Grosso do Sul" Aquidauana
+1532 153205309 "Espírito Santo" Vitória
+1532 153202454 "Espírito Santo" Ibatiba
+1531 153104007 "Minas Gerais" Araxá
+1531 153122306 "Minas Gerais" Divinópolis
+1531 153106705 "Minas Gerais" Betim
+1535 153510609 "São Paulo" Carapicuíba
+1515 151504802 Pará "Monte Alegre"
+1515 151506807 Pará Santarém
+1513 151301902 Amazonas Itacoatiara
+1513 151301308 Amazonas Codajás
+1535 153538006 "São Paulo" Pindamonhangaba
+1533 153305208 "Rio de Janeiro" "São Pedro Da Aldeia"
+1531 153159605 "Minas Gerais" "Santa Rita Do Sapucaí"
+1541 154115606 Paraná Matelândia
+1541 154100707 Paraná "Alto Piquiri"
+1529 152926301 Bahia "Riachão Do Jacuípe"
+1535 153518800 "São Paulo" Guarulhos
+1543 154320008 "Rio Grande do Sul" "Sapucaia Do Sul"
+1543 154314902 "Rio Grande do Sul" "Porto Alegre"
+1543 154309308 "Rio Grande do Sul" Guaíba
+1531 153146008 "Minas Gerais" "Ouro Fino"
+1533 153306305 "Rio de Janeiro" "Volta Redonda"
+1533 153303955 "Rio de Janeiro" Pinheiral
+1531 153152501 "Minas Gerais" "Pouso Alegre"
+1543 154314100 "Rio Grande do Sul" "Passo Fundo"
+1552 155208707 Goiás Goiânia
+1542 154215802 "Santa Catarina" "São Bento Do Sul"
+1542 154217709 "Santa Catarina" Sombrio
+1551 155107602 "Mato Grosso" Rondonópolis
+1524 152408102 "Rio Grande do Norte" Natal
+1524 152403251 "Rio Grande do Norte" Parnamirim
+1531 153136306 "Minas Gerais" "João Pinheiro"
+1535 153549904 "São Paulo" "São José dos Campos"
+1531 153170800 "Minas Gerais" "Várzea Da Palma"
+1516 151600303 Amapá Macapá
+1535 153525003 "São Paulo" Jandira
+1523 152304400 Ceará Fortaleza
+1523 152301950 Ceará Barreira
+1523 152307650 Ceará Maracanaú
+1528 152803609 Sergipe Laranjeiras
+1528 152806602 Sergipe "Santo Amaro Das Brotas"
+1515 151502103 Pará Cametá
+1515 151504208 Pará Marabá
+1535 153502101 "São Paulo" Andradina
+1531 153168002 "Minas Gerais" Taiobeiras
+1535 153515004 "São Paulo" "Embu das Artes"
+1535 153548708 "São Paulo" "São Bernardo Do Campo"
+1535 153501301 "São Paulo" "Álvares Machado"
+1531 153167707 "Minas Gerais" Sobrália
+1552 155212303 Goiás "Leopoldo De Bulhões"
+1552 155208400 Goiás Goianápolis
+1552 155205802 Goiás "Corumbá De Goiás"
+1552 155204706 Goiás Campinorte
+1550 155002704 "Mato Grosso do Sul" "Campo Grande"
+1523 152309904 Ceará Pacujá

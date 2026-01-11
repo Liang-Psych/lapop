@@ -1,0 +1,494 @@
+id gender age edu country_id city_id urban_rural political_stance presidential_approval_rating china_attitude america_attitude pe_fina job ing4 fam_fina etid news_read year state_id state_name city_name code_muni abbrev_state aid_n first_aid if_aid aid_time
+1104 2 26 15 15 152926301 2 10 2 2 NA 3 1 3 8 5 2 2012 1529 bahia "riachao do jacuipe" NA NA 0 NA 0 NA
+37 1 36 4 15 151302553 2 8 1 2 2 2 1 7 7 5 NA 2012 1513 amazonas manaquiri NA NA 0 NA 0 NA
+49 2 54 9 15 151302553 2 6 1 2 2 2 1 6 9 5 1 2012 1513 amazonas manaquiri NA NA 0 NA 0 NA
+1328 2 23 4 15 153146008 2 3 4 3 2 3 5 7 4 5 2 2012 1531 "minas gerais" "ouro fino" NA NA 0 NA 0 NA
+1118 2 46 5 15 152309904 2 1 5 2 1 3 1 2 3 7 1 2012 1523 ceara pacuja NA NA 0 NA 0 NA
+742 1 46 0 15 155001102 2 NA 3 4 4 2 2 7 12 5 2 2012 1550 "mato grosso do sul" aquidauana NA NA 0 NA 0 NA
+47 2 21 11 15 151302553 2 5 2 1 2 2 3 6 7 5 NA 2012 1513 amazonas manaquiri NA NA 0 NA 0 NA
+725 1 20 7 15 152612604 2 10 2 3 3 1 2 3 8 3 2 2012 1526 pernambuco "santa maria da boa vista" NA NA 0 NA 0 NA
+17 1 37 3 15 152309904 2 10 2 2 2 2 1 6 4 4 2 2012 1523 ceara pacuja NA NA 0 NA 0 NA
+1112 1 32 8 15 152611101 2 5 1 2 1 1 1 4 8 4 1 2012 1526 pernambuco petrolina NA NA 0 NA 0 NA
+645 1 28 0 15 152612604 2 NA 2 4 4 2 2 1 10 1506 1 2012 1526 pernambuco "santa maria da boa vista" NA NA 0 NA 0 NA
+1422 2 19 8 15 152309904 2 8 1 3 3 2 5 7 2 5 1 2012 1523 ceara pacuja NA NA 0 NA 0 NA
+1125 1 24 8 15 152112902 2 3 2 2 4 1 2 5 11 5 1 2012 1521 maranhao "vitoria do mearim" NA NA 0 NA 0 NA
+1202 2 37 11 15 152309904 2 1 1 3 3 1 1 5 5 5 2 2012 1523 ceara pacuja NA NA 0 NA 0 NA
+1294 2 29 8 15 155001102 2 NA 3 2 2 2 5 6 10 5 2 2012 1550 "mato grosso do sul" aquidauana NA NA 0 NA 0 NA
+1484 2 48 6 15 155001102 2 NA 3 4 4 2 5 4 11 5 1 2012 1550 "mato grosso do sul" aquidauana NA NA 0 NA 0 NA
+707 1 27 2 15 155001102 2 NA 4 3 2 3 1 7 9 5 2 2012 1550 "mato grosso do sul" aquidauana NA NA 0 NA 0 NA
+724 2 31 10 15 152926301 2 9 3 3 3 1 5 5 6 5 1 2012 1529 bahia "riachao do jacuipe" NA NA 0 NA 0 NA
+608 2 23 4 15 151301308 2 10 2 2 2 3 2 6 4 5 1 2012 1513 amazonas codajas NA NA 0 NA 0 NA
+1293 2 20 9 15 155001102 2 NA 2 2 2 2 5 6 12 5 1 2012 1550 "mato grosso do sul" aquidauana NA NA 0 NA 0 NA
+1208 1 36 4 15 151301308 2 10 2 2 2 3 2 6 6 5 4 2012 1513 amazonas codajas NA NA 0 NA 0 NA
+1302 2 37 14 15 152112902 2 3 2 3 2 1 1 7 15 1 1 2012 1521 maranhao "vitoria do mearim" NA NA 0 NA 0 NA
+11 1 31 7 15 152309904 2 4 1 2 3 3 3 6 5 5 2 2012 1523 ceara pacuja NA NA 0 NA 0 NA
+658 2 49 5 15 151301308 2 10 2 1 2 2 5 7 7 5 2 2012 1513 amazonas codajas NA NA 0 NA 0 NA
+1307 1 52 8 15 152112902 2 10 2 2 2 2 2 6 12 5 1 2012 1521 maranhao "vitoria do mearim" NA NA 0 NA 0 NA
+921 1 34 8 15 152611101 2 10 2 1 2 2 1 7 9 5 1 2012 1526 pernambuco petrolina NA NA 0 NA 0 NA
+1485 1 31 11 15 155001102 2 5 2 3 3 2 1 7 13 5 2 2012 1550 "mato grosso do sul" aquidauana NA NA 0 NA 0 NA
+1404 1 51 7 15 151301308 2 1 2 2 1 3 2 6 10 5 1 2012 1513 amazonas codajas NA NA 0 NA 0 NA
+672 1 21 11 15 151301308 2 10 2 2 2 2 2 7 7 5 2 2012 1513 amazonas codajas NA NA 0 NA 0 NA
+1494 1 32 7 15 155205802 2 5 1 1 1 2 1 5 14 1506 2 2012 1552 goias "corumba de goias" NA NA 0 NA 0 NA
+1164 2 24 11 15 153501301 2 4 2 3 1 1 1 3 15 1 5 2012 1535 "sao paulo" "alvares machado" NA NA 0 NA 0 NA
+1152 2 28 10 15 152500601 2 NA 2 3 2 1 5 3 10 5 2 2012 1525 paraiba alhandra NA NA 0 NA 0 NA
+648 2 20 5 15 151301308 2 10 2 1 2 1 3 6 5 5 1 2012 1513 amazonas codajas NA NA 0 NA 0 NA
+1398 1 47 8 15 153146008 2 5 2 2 1 2 1 3 7 5 1 2012 1531 "minas gerais" "ouro fino" NA NA 0 NA 0 NA
+925 2 24 11 15 152112902 2 9 2 3 3 1 1 6 15 4 1 2012 1521 maranhao "vitoria do mearim" NA NA 0 NA 0 NA
+1255 1 18 9 15 154322608 2 1 3 2 2 1 1 NA 16 1 3 2012 1543 "rio grande do sul" "venancio aires" NA NA 0 NA 0 NA
+13 2 52 11 15 152112902 2 8 1 4 2 2 2 4 16 4 1 2012 1521 maranhao "vitoria do mearim" NA NA 0 NA 0 NA
+924 1 18 11 15 152112902 2 3 1 3 1 1 3 4 11 1 1 2012 1521 maranhao "vitoria do mearim" NA NA 0 NA 0 NA
+1095 2 20 11 15 154322608 2 2 2 2 2 2 1 5 16 5 3 2012 1543 "rio grande do sul" "venancio aires" NA NA 0 NA 0 NA
+1355 1 20 10 15 154322608 2 1 3 3 NA 2 1 2 16 1 5 2012 1543 "rio grande do sul" "venancio aires" NA NA 0 NA 0 NA
+749 2 32 17 15 155205802 2 5 1 2 2 1 1 1 15 1 2 2012 1552 goias "corumba de goias" NA NA 0 NA 0 NA
+1169 2 25 11 15 153168002 2 5 2 2 1 2 5 7 7 5 2 2012 1531 "minas gerais" taiobeiras NA NA 0 NA 0 NA
+1015 1 31 10 15 155205802 2 5 3 4 4 1 1 5 14 1 2 2012 1552 goias "corumba de goias" NA NA 0 NA 0 NA
+1177 1 26 11 15 153501301 2 5 2 4 1 1 1 4 16 1 5 2012 1535 "sao paulo" "alvares machado" NA NA 0 NA 0 NA
+1478 1 51 11 15 154302808 2 9 2 3 2 3 1 1 16 1 2 2012 1543 "rio grande do sul" "cacapava do sul" NA NA 0 NA 0 NA
+961 2 23 11 15 153501301 2 8 4 3 2 1 1 4 16 1 4 2012 1535 "sao paulo" "alvares machado" NA NA 0 NA 0 NA
+1259 1 37 15 15 154322608 2 6 2 2 2 1 1 5 16 1 4 2012 1543 "rio grande do sul" "venancio aires" NA NA 0 NA 0 NA
+1176 1 34 11 15 153501301 2 6 2 2 2 2 1 3 16 1 2 2012 1535 "sao paulo" "alvares machado" NA NA 0 NA 0 NA
+1175 1 21 11 15 153501301 2 5 2 3 2 1 1 6 NA 1 3 2012 1535 "sao paulo" "alvares machado" NA NA 0 NA 0 NA
+962 1 30 15 15 153501301 2 NA 3 4 4 2 1 4 16 1 2 2012 1535 "sao paulo" "alvares machado" NA NA 0 NA 0 NA
+1079 2 28 11 15 155215231 1 6 4 3 3 2 1 3 NA 1506 2 2012 1552 goias "novo gama" NA NA 0 NA 0 NA
+1142 2 44 5 15 152105302 1 10 2 3 2 2 5 7 16 4 1 2012 1521 maranhao imperatriz NA NA 0 NA 0 NA
+1099 2 53 13 15 153170800 1 NA 3 2 1 2 1 6 13 5 1 2012 1531 "minas gerais" "varzea da palma" NA NA 0 NA 0 NA
+1353 2 52 11 15 154100707 1 NA 3 4 NA 2 5 6 12 5 4 2012 1541 parana "alto piquiri" NA NA 0 NA 0 NA
+622 2 48 7 15 155103403 1 6 3 3 3 2 1 6 16 5 1 2012 1551 "mato grosso" cuiaba NA NA 0 NA 0 NA
+983 2 56 8 15 153167707 1 8 2 2 2 2 1 5 10 3 2 2012 1531 "minas gerais" sobralia NA NA 0 NA 0 NA
+1471 2 39 8 15 153550308 1 6 3 3 3 2 5 4 16 1 3 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+615 1 29 1 15 155106208 1 6 3 2 2 2 1 5 14 5 2 2012 1551 "mato grosso" "nova brasilandia" NA NA 0 NA 0 NA
+1392 1 20 11 15 154106902 1 7 1 2 4 2 1 4 16 1506 3 2012 1541 parana curitiba NA NA 0 NA 0 NA
+1229 1 40 11 15 152910800 1 3 2 3 2 2 1 6 16 5 1 2012 1529 bahia "feira de santana" NA NA 0 NA 0 NA
+1297 1 35 8 15 155204805 1 9 2 3 3 1 2 6 NA 5 1 2012 1552 goias "campo alegre de goias" NA NA 0 NA 0 NA
+1030 1 50 15 15 155002704 1 8 2 2 2 1 1 6 16 5 2 2012 1550 "mato grosso do sul" "campo grande" NA NA 0 NA 0 NA
+10 2 22 10 15 151100452 1 7 2 2 2 1 2 3 6 5 2 2012 1511 rondonia buritis NA NA 0 NA 0 NA
+1183 1 33 11 15 153520509 1 NA 2 3 2 1 1 4 16 1 4 2012 1535 "sao paulo" indaiatuba NA NA 0 NA 0 NA
+39 1 29 15 15 151400100 1 9 2 3 3 1 1 7 16 5 1 2012 1514 roraima "boa vista" NA NA 0 NA 0 NA
+1391 2 19 11 15 3550308 1 3 2 3 1 2 1 NA 16 1 1 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+1453 2 24 11 15 153304557 1 5 3 2 2 2 1 7 16 5 2 2012 1533 "rio de janeiro" "rio de janeiro" 3304557 RJ 1 2011 1 1
+726 1 45 8 15 155107602 1 6 3 2 2 2 1 7 16 5 1 2012 1551 "mato grosso" rondonopolis NA NA 0 NA 0 NA
+1225 2 23 11 15 152111300 1 8 2 4 3 2 2 7 10 5 2 2012 1521 maranhao "sao luis" NA NA 0 NA 0 NA
+1061 2 44 4 15 154215802 1 2 3 2 2 NA 1 6 16 1 2 2012 1542 "santa catarina" "sao bento do sul" NA NA 0 NA 0 NA
+1214 2 40 11 15 152111300 1 3 2 4 4 1 1 4 16 4 4 2012 1521 maranhao "sao luis" NA NA 0 NA 0 NA
+1381 1 64 11 15 154106902 1 10 2 2 2 1 1 4 16 1506 2 2012 1541 parana curitiba NA NA 0 NA 0 NA
+912 1 48 8 15 151302603 1 5 2 3 2 2 1 5 10 1 2 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+620 2 46 4 15 155201405 1 6 3 2 2 1 5 5 14 1 3 2012 1552 goias "aparecida de goiania" NA NA 0 NA 0 NA
+1182 1 39 8 15 153520509 1 6 3 4 1 1 1 6 16 1 3 2012 1535 "sao paulo" indaiatuba NA NA 0 NA 0 NA
+1086 1 52 3 15 154113700 1 1 2 3 2 1 1 2 15 5 5 2012 1541 parana londrina NA NA 0 NA 0 NA
+928 2 30 11 15 152304400 1 NA 2 2 1 2 2 7 11 5 1 2012 1523 ceara fortaleza NA NA 0 NA 0 NA
+1161 1 53 15 15 153136306 1 5 3 4 4 1 1 7 16 5 1 2012 1531 "minas gerais" "joao pinheiro" NA NA 0 NA 0 NA
+665 2 20 10 15 151200401 1 2 2 2 3 3 3 7 7 5 1 2012 1512 acre "rio branco" NA NA 0 NA 0 NA
+909 2 63 4 15 3515004 1 3 1 4 2 1 6 5 11 1 1 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+1306 2 28 17 15 153306305 1 5 3 3 4 2 1 3 16 1 2 2012 1533 "rio de janeiro" "volta redonda" NA NA 0 NA 0 NA
+1078 2 27 11 15 155215231 1 4 3 2 3 2 1 2 16 1506 2 2012 1552 goias "novo gama" NA NA 0 NA 0 NA
+946 2 28 11 15 153550308 1 7 2 4 1 3 1 4 16 1 3 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+23 1 71 4 15 152111300 1 8 3 1 1 3 6 6 14 5 1 2012 1521 maranhao "sao luis" NA NA 0 NA 0 NA
+1236 2 63 10 15 151501402 1 NA 1 3 1 2 6 7 14 5 2 2012 1515 para belem NA NA 0 NA 0 NA
+1322 2 27 9 15 153304557 1 4 3 2 1 2 1 2 7 5 3 2012 1533 "rio de janeiro" "rio de janeiro" 3304557 RJ 1 2011 1 1
+1025 2 42 16 15 155204805 1 NA 3 4 1 2 2 6 NA 1 1 2012 1552 goias "campo alegre de goias" NA NA 0 NA 0 NA
+1337 1 51 11 15 153520509 1 5 3 2 2 3 7 4 7 1 3 2012 1535 "sao paulo" indaiatuba NA NA 0 NA 0 NA
+978 2 31 11 15 153550308 1 6 3 1 1 2 7 4 15 5 1 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+1383 1 30 10 15 153550308 1 5 2 2 1 3 1 5 15 1 1 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+1300 2 23 8 15 155212303 1 10 2 2 2 2 2 7 8 5 1 2012 1552 goias "leopoldo de bulhoes" NA NA 0 NA 0 NA
+1315 1 24 10 15 15355030 1 9 2 2 1 2 3 7 16 4 1 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+944 2 33 10 15 153304557 1 NA 5 3 2 1 1 3 2 4 2 2012 1533 "rio de janeiro" "rio de janeiro" 3304557 RJ 1 2011 1 1
+607 2 42 16 15 152507507 1 3 3 2 3 2 4 6 15 1 1 2012 1525 paraiba "joao pessoa" NA NA 0 NA 0 NA
+1299 1 19 11 15 155204805 1 NA 2 3 3 1 2 6 16 1 2 2012 1552 goias "campo alegre de goias" NA NA 0 NA 0 NA
+719 1 31 9 15 155300108 1 6 3 3 3 2 1 7 13 1 1 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+1318 1 27 17 15 153306305 1 1 2 3 3 2 1 3 13 5 5 2012 1533 "rio de janeiro" "volta redonda" NA NA 0 NA 0 NA
+1036 2 46 2 15 155208707 1 NA 5 3 3 3 2 6 9 5 4 2012 1552 goias goiania NA NA 0 NA 0 NA
+1088 2 44 4 15 154215802 1 6 4 2 2 3 1 5 16 1 2 2012 1542 "santa catarina" "sao bento do sul" NA NA 0 NA 0 NA
+605 1 52 15 15 152408102 1 5 2 3 2 2 1 7 16 1 1 2012 1524 "rio grande do norte" natal NA NA 0 NA 0 NA
+1283 1 28 11 15 154314902 1 7 3 2 4 1 2 7 15 1 3 2012 1543 "rio grande do sul" "porto alegre" NA NA 0 NA 0 NA
+612 2 40 11 15 155201405 1 5 3 2 2 3 1 7 16 5 2 2012 1552 goias "aparecida de goiania" NA NA 0 NA 0 NA
+1295 2 18 11 15 155106208 1 7 2 2 2 2 1 6 13 5 1 2012 1551 "mato grosso" "nova brasilandia" NA NA 0 NA 0 NA
+609 1 42 11 15 151302603 1 4 3 3 1 2 1 4 16 5 NA 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+1209 1 40 12 15 151302603 1 4 3 3 1 2 5 4 10 5 1 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+678 1 26 13 15 151501501 1 1 3 2 4 1 1 7 16 5 2 2012 1515 para NA NA NA 0 NA 0 NA
+746 1 45 5 15 155106208 1 NA 2 3 2 2 1 6 16 5 1 2012 1551 "mato grosso" "nova brasilandia" NA NA 0 NA 0 NA
+1105 2 21 11 15 152403251 1 1 3 3 2 3 1 7 6 1 2 2012 1524 "rio grande do norte" parnamirim NA NA 0 NA 0 NA
+1159 1 44 10 15 153136306 1 7 1 2 2 1 6 7 16 1 1 2012 1531 "minas gerais" "joao pinheiro" NA NA 0 NA 0 NA
+687 1 20 11 15 151501402 1 5 2 2 2 1 4 5 16 4 1 2012 1515 para belem NA NA 0 NA 0 NA
+646 2 19 11 15 152611606 1 2 2 4 4 2 5 7 NA 1 4 2012 1526 pernambuco recife NA NA 0 NA 0 NA
+671 2 47 6 15 151302603 1 4 3 3 2 2 1 4 8 5 NA 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+1060 1 39 11 15 154215802 1 1 3 1 2 2 1 7 13 1 2 2012 1542 "santa catarina" "sao bento do sul" NA NA 0 NA 0 NA
+1144 1 59 17 15 153301702 1 5 5 4 NA 3 6 5 16 1 1 2012 1533 "rio de janeiro" "duque de caxias" NA NA 0 NA 0 NA
+972 1 53 11 15 153106705 1 7 2 2 2 3 6 4 16 5 1 2012 1531 "minas gerais" betim NA NA 0 NA 0 NA
+1051 1 24 11 15 155300108 1 7 4 2 1 1 2 6 11 1 1 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+1273 2 21 13 15 154314100 1 10 1 2 2 2 1 7 16 1 1 2012 1543 "rio grande do sul" "passo fundo" NA NA 0 NA 0 NA
+739 1 46 11 15 155103403 1 7 3 3 2 2 1 6 15 5 2 2012 1551 "mato grosso" cuiaba NA NA 0 NA 0 NA
+686 2 20 11 15 151501402 1 1 1 4 1 1 3 4 7 5 1 2012 1515 para belem NA NA 0 NA 0 NA
+683 1 41 17 15 151501402 1 NA 2 3 4 1 1 7 16 5 2 2012 1515 para belem NA NA 0 NA 0 NA
+1240 1 54 2 15 151504208 1 NA 3 3 2 2 1 2 10 4 1 2012 1515 para NA NA NA 0 NA 0 NA
+713 1 29 11 15 155107602 1 8 3 2 2 1 1 7 14 5 1 2012 1551 "mato grosso" rondonopolis NA NA 0 NA 0 NA
+661 1 52 5 15 151301902 1 1 2 2 1 3 6 5 6 1 2 2012 1513 amazonas itacoatiara NA NA 0 NA 0 NA
+959 1 20 9 15 153525003 1 4 2 3 1 2 1 7 12 4 1 2012 1535 "sao paulo" jandira NA NA 0 NA 0 NA
+1470 1 29 8 15 153550308 1 NA 2 1 2 1 1 7 12 5 2 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+1374 1 88 2 15 153548708 1 4 2 3 1 2 6 5 NA 1 1 2012 1535 "sao paulo" "sao bernardo do campo" NA NA 0 NA 0 NA
+1298 1 31 11 15 152504603 1 4 NA 4 4 2 2 1 15 5 4 2012 1525 paraiba conde NA NA 0 NA 0 NA
+634 2 29 14 15 152927408 1 4 3 3 2 2 1 6 16 1506 2 2012 1529 bahia salvador NA NA 0 NA 0 NA
+674 2 51 7 15 151301902 1 7 2 2 1 2 1 6 8 5 NA 2012 1513 amazonas itacoatiara NA NA 0 NA 0 NA
+974 2 47 10 15 153525003 1 5 2 4 4 2 7 NA 8 5 1 2012 1535 "sao paulo" jandira NA NA 0 NA 0 NA
+1325 1 69 17 15 153306305 1 5 2 2 2 2 6 7 16 1 2 2012 1533 "rio de janeiro" "volta redonda" NA NA 0 NA 0 NA
+1020 1 25 14 15 155002704 1 NA 2 2 2 2 1 6 16 5 1 2012 1550 "mato grosso do sul" "campo grande" NA NA 0 NA 0 NA
+673 1 25 7 15 151302603 1 5 2 3 2 1 1 7 6 5 NA 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+955 2 18 11 15 3550308 1 9 3 2 1 2 5 7 11 5 1 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+636 1 27 11 15 152933208 1 1 5 3 2 3 1 6 13 4 1 2012 1529 bahia "vera cruz" NA NA 0 NA 0 NA
+31 2 63 11 15 151501402 1 10 3 4 4 1 6 6 10 4 1 2012 1515 para belem NA NA 0 NA 0 NA
+1019 1 50 8 15 155204805 1 1 2 2 2 1 2 7 16 1 2 2012 1552 goias "campo alegre de goias" NA NA 0 NA 0 NA
+1018 2 22 11 15 155003207 1 NA 3 4 4 2 1 7 14 5 1 2012 1550 "mato grosso do sul" corumba NA NA 0 NA 0 NA
+1037 2 28 13 15 154318309 1 5 2 3 2 2 1 5 16 1 5 2012 1543 "rio grande do sul" "sao gabriel" NA NA 0 NA 0 NA
+915 2 22 11 15 151501402 1 5 2 3 4 1 3 5 11 5 2 2012 1515 para belem NA NA 0 NA 0 NA
+708 2 30 8 15 155107602 1 5 3 2 2 2 1 7 7 5 2 2012 1551 "mato grosso" rondonopolis NA NA 0 NA 0 NA
+1033 2 27 12 15 155003207 1 6 2 3 3 2 3 7 13 1 1 2012 1550 "mato grosso do sul" corumba NA NA 0 NA 0 NA
+1332 2 46 5 15 153521101 1 5 2 2 2 2 1 7 16 1 2 2012 1535 "sao paulo" ipeuna NA NA 0 NA 0 NA
+675 2 24 13 15 151302603 1 8 2 2 2 NA 2 7 13 4 2 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+1449 2 31 11 15 153303955 1 9 2 3 2 2 1 7 6 5 1 2012 1533 "rio de janeiro" pinheiral NA NA 0 NA 0 NA
+1002 2 31 2 15 154106902 1 NA 4 2 3 1 6 1 9 4 5 2012 1541 parana curitiba NA NA 0 NA 0 NA
+1346 2 23 11 15 153520509 1 5 4 2 1 2 1 6 15 1 2 2012 1535 "sao paulo" indaiatuba NA NA 0 NA 0 NA
+1387 2 27 11 15 154215802 1 5 3 2 2 2 1 7 16 1 2 2012 1542 "santa catarina" "sao bento do sul" NA NA 0 NA 0 NA
+660 1 30 11 15 151200401 1 8 2 3 4 2 1 7 8 5 1 2012 1512 acre "rio branco" NA NA 0 NA 0 NA
+641 2 22 13 15 152803609 1 5 4 3 2 1 1 6 15 4 1 2012 1528 sergipe laranjeiras NA NA 0 NA 0 NA
+1301 2 46 4 15 155212303 1 1 2 4 1 1 5 6 8 1 1 2012 1552 goias "leopoldo de bulhoes" NA NA 0 NA 0 NA
+1114 1 85 11 15 153106705 1 10 5 3 1 2 6 7 16 1 1 2012 1531 "minas gerais" betim NA NA 0 NA 0 NA
+1312 1 39 11 15 153300456 1 2 2 3 4 1 1 2 10 4 3 2012 1533 "rio de janeiro" "belford roxo" NA NA 0 NA 0 NA
+668 1 34 11 15 151302603 1 9 2 3 2 2 1 6 16 5 NA 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+1347 1 56 8 15 153104007 1 6 2 2 3 2 2 7 16 1 2 2012 1531 "minas gerais" araxa NA NA 0 NA 0 NA
+1068 2 21 13 15 154320008 1 5 3 2 2 3 1 7 10 1 2 2012 1543 "rio grande do sul" "sapucaia do sul" NA NA 0 NA 0 NA
+44 2 39 10 15 152604106 1 8 2 2 2 1 3 5 9 4 1 2012 1526 pernambuco caruaru NA NA 0 NA 0 NA
+1303 1 26 11 15 153304144 1 8 3 2 2 2 1 7 16 5 1 2012 1533 "rio de janeiro" queimados NA NA 0 NA 0 NA
+1016 2 45 12 15 155003207 1 7 2 3 3 2 1 7 14 5 1 2012 1550 "mato grosso do sul" corumba NA NA 0 NA 0 NA
+1141 1 49 4 15 152105302 1 10 2 3 3 1 1 7 7 1 1 2012 1521 maranhao imperatriz NA NA 0 NA 0 NA
+720 2 20 9 15 155300108 1 5 5 4 4 1 3 4 16 1506 1 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+1039 1 40 11 15 154316907 1 5 NA 4 4 3 1 7 16 5 5 2012 1543 "rio grande do sul" "santa maria" NA NA 0 NA 0 NA
+16 2 27 11 15 152933208 1 5 3 4 2 1 3 3 12 4 2 2012 1529 bahia "vera cruz" NA NA 0 NA 0 NA
+1333 1 47 9 15 153303955 1 1 2 3 2 2 2 7 12 1506 1 2012 1533 "rio de janeiro" pinheiral NA NA 0 NA 0 NA
+1408 1 56 7 15 151500107 1 8 2 2 2 1 1 7 16 5 1 2012 1515 para NA NA NA 0 NA 0 NA
+1340 2 24 11 15 15355030 1 4 3 3 3 1 1 3 16 5 5 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+20 1 42 11 15 152927408 1 3 3 3 4 2 6 7 16 5 1 2012 1529 bahia salvador NA NA 0 NA 0 NA
+1004 1 31 8 15 154318309 1 3 4 3 2 1 3 3 9 4 4 2012 1543 "rio grande do sul" "sao gabriel" NA NA 0 NA 0 NA
+1059 2 52 8 15 154215802 1 5 2 2 2 2 1 3 NA 1 5 2012 1542 "santa catarina" "sao bento do sul" NA NA 0 NA 0 NA
+747 1 31 2 15 155106208 1 5 2 3 2 2 1 7 16 5 1 2012 1551 "mato grosso" "nova brasilandia" NA NA 0 NA 0 NA
+716 1 46 11 15 155300108 1 9 2 2 1 3 1 5 14 1 1 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+1324 1 29 11 15 153306305 1 5 3 2 2 2 3 3 7 1 2 2012 1533 "rio de janeiro" "volta redonda" NA NA 0 NA 0 NA
+1418 1 28 6 15 152304400 1 4 1 3 1 1 1 5 9 1 1 2012 1523 ceara fortaleza NA NA 0 NA 0 NA
+1266 1 45 8 15 154106902 1 1 3 4 4 2 1 3 16 5 5 2012 1541 parana curitiba NA NA 0 NA 0 NA
+1097 2 31 11 15 153550308 1 5 1 2 1 1 5 6 13 5 1 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+1320 2 30 16 15 153303955 1 5 3 2 2 2 1 7 9 5 1 2012 1533 "rio de janeiro" pinheiral NA NA 0 NA 0 NA
+618 2 41 5 15 152933208 1 4 2 2 3 2 7 3 9 5 2 2012 1529 bahia "vera cruz" NA NA 0 NA 0 NA
+1291 2 27 11 15 153550308 1 6 2 3 2 3 1 5 15 1 1 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+684 1 37 9 15 151501402 1 5 3 4 4 1 1 7 11 1506 1 2012 1515 para belem NA NA 0 NA 0 NA
+1211 2 32 5 15 151501303 1 NA 1 2 NA 2 5 NA 7 5 4 2012 1515 para NA NA NA 0 NA 0 NA
+1319 1 21 3 15 153521101 1 5 2 3 2 2 1 7 16 5 2 2012 1535 "sao paulo" ipeuna NA NA 0 NA 0 NA
+1087 1 44 11 15 154113700 1 10 2 1 1 1 1 5 15 5 2 2012 1541 parana londrina NA NA 0 NA 0 NA
+1005 2 35 11 15 154318309 1 8 2 2 NA 2 7 7 7 1 4 2012 1543 "rio grande do sul" "sao gabriel" NA NA 0 NA 0 NA
+1063 2 22 12 15 154106902 1 5 3 2 1 1 1 4 13 5 5 2012 1541 parana curitiba NA NA 0 NA 0 NA
+1131 2 49 8 15 152611606 1 9 2 4 1 1 5 7 16 5 1 2012 1526 pernambuco recife NA NA 0 NA 0 NA
+1133 1 23 11 15 152802908 1 8 3 3 2 2 1 5 9 5 1 2012 1528 sergipe itabaiana NA NA 0 NA 0 NA
+1217 2 49 9 15 151502202 1 5 2 4 2 3 5 1 13 5 3 2012 1515 para NA NA NA 0 NA 0 NA
+700 1 32 6 15 152304400 1 5 2 3 4 2 7 5 13 5 4 2012 1523 ceara fortaleza NA NA 0 NA 0 NA
+1241 1 41 8 15 151302603 1 9 2 2 2 1 1 5 9 4 NA 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+1334 1 50 10 15 153205309 1 5 1 2 2 3 6 7 7 1 1 2012 1532 "espirito santo" vitoria NA NA 0 NA 0 NA
+1348 2 45 14 15 153538006 1 8 2 1 NA 1 1 7 16 5 2 2012 1535 "sao paulo" pindamonhangaba NA NA 0 NA 0 NA
+1077 2 25 11 15 155215231 1 6 3 2 2 3 1 3 16 1 2 2012 1552 goias "novo gama" NA NA 0 NA 0 NA
+1342 1 22 10 15 153205309 1 4 2 4 4 2 2 4 11 5 1 2012 1532 "espirito santo" vitoria NA NA 0 NA 0 NA
+659 2 45 11 15 151400100 1 NA 5 1 2 1 1 7 16 4 1 2012 1514 roraima "boa vista" NA NA 0 NA 0 NA
+994 2 21 11 15 153502101 1 6 2 4 4 1 1 3 16 5 2 2012 1535 "sao paulo" andradina NA NA 0 NA 0 NA
+1406 1 49 11 15 151400100 1 NA 2 4 2 1 1 6 16 1 1 2012 1514 roraima "boa vista" NA NA 0 NA 0 NA
+1120 1 38 11 15 152611606 1 6 3 3 3 1 3 6 10 1 1 2012 1526 pernambuco recife NA NA 0 NA 0 NA
+1316 1 39 4 15 153152501 1 4 2 2 2 1 2 7 7 4 2 2012 1531 "minas gerais" "pouso alegre" NA NA 0 NA 0 NA
+715 1 45 8 15 155300108 1 10 2 2 2 3 1 5 14 5 1 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+1451 2 63 11 15 153304144 1 5 3 1 1 2 6 7 6 1 1 2012 1533 "rio de janeiro" queimados NA NA 0 NA 0 NA
+1116 1 39 11 15 153106705 1 5 2 2 1 2 1 5 16 5 1 2012 1531 "minas gerais" betim NA NA 0 NA 0 NA
+647 1 55 10 15 152408102 1 5 2 3 2 3 1 7 16 5 1 2012 1524 "rio grande do norte" natal NA NA 0 NA 0 NA
+1115 1 46 5 15 153305208 1 1 3 2 NA 1 1 5 11 4 2 2012 1533 "rio de janeiro" "sao pedro da aldeia" NA NA 0 NA 0 NA
+1263 1 28 11 15 153303955 1 10 3 4 3 2 1 7 15 4 1 2012 1533 "rio de janeiro" pinheiral NA NA 0 NA 0 NA
+1108 1 20 10 15 153106705 1 4 2 4 4 2 2 2 11 5 1 2012 1531 "minas gerais" betim NA NA 0 NA 0 NA
+1153 2 35 14 15 153304557 1 5 1 3 2 2 1 7 16 1 1 2012 1533 "rio de janeiro" "rio de janeiro" 3304557 RJ 1 2011 1 1
+40 1 43 3 15 151400100 1 NA 2 2 2 1 1 7 16 4 1 2012 1514 roraima "boa vista" NA NA 0 NA 0 NA
+1123 1 32 8 15 152105302 1 8 3 1 1 1 1 5 16 5 1 2012 1521 maranhao imperatriz NA NA 0 NA 0 NA
+1010 2 49 16 15 155208707 1 8 1 2 2 2 2 6 10 1 1 2012 1552 goias goiania NA NA 0 NA 0 NA
+1440 1 21 14 15 153122306 1 7 2 3 3 1 2 5 16 1 1 2012 1531 "minas gerais" divinopolis NA NA 0 NA 0 NA
+3 1 46 11 15 151501402 1 3 3 3 3 1 1 5 16 5 1 2012 1515 para belem NA NA 0 NA 0 NA
+691 1 59 8 15 151100205 1 8 3 2 3 1 2 6 6 5 1 2012 1511 rondonia "porto velho" NA NA 0 NA 0 NA
+654 2 23 11 15 151500107 1 5 1 1 1 2 3 5 8 5 1 2012 1515 para NA NA NA 0 NA 0 NA
+960 1 58 4 15 153525003 1 5 3 4 4 3 1 NA 15 5 4 2012 1535 "sao paulo" jandira NA NA 0 NA 0 NA
+1285 2 22 14 15 154115606 1 10 3 1 NA 1 1 7 16 5 2 2012 1541 parana matelandia NA NA 0 NA 0 NA
+1429 1 18 11 15 152611606 1 7 2 2 1 1 1 4 13 5 4 2012 1526 pernambuco recife NA NA 0 NA 0 NA
+1480 2 47 NA 15 154314902 1 2 3 4 4 1 1 NA 16 NA 4 2012 1543 "rio grande do sul" "porto alegre" NA NA 0 NA 0 NA
+907 1 19 11 15 153304557 1 1 3 4 4 2 1 NA 16 4 2 2012 1533 "rio de janeiro" "rio de janeiro" 3304557 RJ 1 2011 1 1
+1369 2 42 11 15 153306305 1 NA 3 3 4 2 1 4 14 5 5 2012 1533 "rio de janeiro" "volta redonda" NA NA 0 NA 0 NA
+988 1 19 4 15 153152501 1 4 4 4 2 1 3 7 NA 1 2 2012 1531 "minas gerais" "pouso alegre" NA NA 0 NA 0 NA
+1181 2 32 11 15 153520509 1 6 2 4 2 3 5 4 14 1 2 2012 1535 "sao paulo" indaiatuba NA NA 0 NA 0 NA
+657 1 31 1 15 151100452 1 10 2 1 3 2 2 7 10 4 3 2012 1511 rondonia buritis NA NA 0 NA 0 NA
+1149 1 26 13 15 152504603 1 5 3 4 4 1 1 7 7 4 2 2012 1525 paraiba conde NA NA 0 NA 0 NA
+1167 2 40 11 15 153301702 1 5 3 3 4 3 1 1 8 4 2 2012 1533 "rio de janeiro" "duque de caxias" NA NA 0 NA 0 NA
+1190 2 32 15 15 153510609 1 5 2 2 2 2 1 7 16 5 1 2012 1535 "sao paulo" carapicuiba NA NA 0 NA 0 NA
+1029 2 34 6 15 155208400 1 9 2 1 2 1 1 6 12 7 1 2012 1552 goias goianapolis NA NA 0 NA 0 NA
+1094 2 38 15 15 154115606 1 NA 2 3 2 2 1 3 16 1 2 2012 1541 parana matelandia NA NA 0 NA 0 NA
+1314 2 51 8 15 153522703 1 6 2 2 2 2 1 7 15 5 1 2012 1535 "sao paulo" itapolis NA NA 0 NA 0 NA
+1256 1 50 11 15 154209102 1 1 4 2 2 3 1 7 NA 5 5 2012 1542 "santa catarina" joinville NA NA 0 NA 0 NA
+1363 1 30 8 15 154320404 1 NA 2 2 2 2 1 3 16 5 2 2012 1543 "rio grande do sul" "serafina correa" NA NA 0 NA 0 NA
+1160 2 66 14 15 153170800 1 6 2 3 2 2 6 7 15 5 2 2012 1531 "minas gerais" "varzea da palma" NA NA 0 NA 0 NA
+1074 1 57 4 15 154217709 1 1 2 2 2 2 1 6 16 1 2 2012 1542 "santa catarina" sombrio NA NA 0 NA 0 NA
+1178 2 34 11 15 153550308 1 5 3 2 1 3 1 4 NA 4 2 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+956 1 45 11 15 153550308 1 7 1 2 2 3 1 5 15 1 2 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+1388 2 29 11 15 153122306 1 5 5 2 3 2 5 4 12 1 1 2012 1531 "minas gerais" divinopolis NA NA 0 NA 0 NA
+623 2 37 9 15 155103403 1 5 2 3 3 2 1 7 16 5 1 2012 1551 "mato grosso" cuiaba NA NA 0 NA 0 NA
+1419 2 30 11 15 152304400 1 4 2 3 2 1 1 7 13 5 1 2012 1523 ceara fortaleza NA NA 0 NA 0 NA
+1028 1 53 4 15 155208400 1 1 3 3 3 2 1 6 14 3 1 2012 1552 goias goianapolis NA NA 0 NA 0 NA
+1222 1 35 3 15 152307650 1 NA 3 1 NA 1 2 2 7 5 5 2012 1523 ceara maracanau NA NA 0 NA 0 NA
+1196 1 23 13 15 153550308 1 5 3 2 2 2 3 3 NA 1 2 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+694 2 29 11 15 151100205 1 8 3 2 3 3 4 7 5 4 1 2012 1511 rondonia "porto velho" NA NA 0 NA 0 NA
+1047 1 30 9 15 155002704 1 7 2 3 2 2 1 6 13 5 2 2012 1550 "mato grosso do sul" "campo grande" NA NA 0 NA 0 NA
+1368 1 72 11 15 153521101 1 4 3 2 1 2 6 4 10 3 3 2012 1535 "sao paulo" ipeuna NA NA 0 NA 0 NA
+1366 1 18 11 15 154217709 1 5 3 2 2 2 7 2 NA 1 2 2012 1542 "santa catarina" sombrio NA NA 0 NA 0 NA
+32 1 17 4 15 151501501 1 NA 4 2 NA 2 3 7 11 5 4 2012 1515 para NA NA NA 0 NA 0 NA
+1109 2 28 11 15 153305208 1 1 5 3 NA 1 5 7 6 5 1 2012 1533 "rio de janeiro" "sao pedro da aldeia" NA NA 0 NA 0 NA
+1235 1 22 11 15 151501303 1 NA 3 3 4 3 7 6 14 5 2 2012 1515 para NA NA NA 0 NA 0 NA
+1207 2 50 9 15 152910800 1 6 3 4 2 2 2 5 10 4 2 2012 1529 bahia "feira de santana" NA NA 0 NA 0 NA
+1026 2 50 11 15 155208400 1 8 3 3 2 1 1 6 7 1 1 2012 1552 goias goianapolis NA NA 0 NA 0 NA
+1168 2 22 11 15 153106200 1 5 2 3 NA 1 5 7 12 4 1 2012 1531 "minas gerais" "belo horizonte" NA NA 0 NA 0 NA
+1245 2 61 1 15 152708907 1 9 1 2 2 3 5 6 5 5 2 2012 1527 alagoas satuba NA NA 0 NA 0 NA
+1076 2 53 11 15 155300108 1 10 1 3 3 1 2 5 12 4 3 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+1073 1 22 11 15 154208302 1 1 3 2 2 1 1 6 15 1 1 2012 1542 "santa catarina" itapema NA NA 0 NA 0 NA
+1158 1 34 11 15 153304557 1 3 1 2 2 2 1 5 16 5 2 2012 1533 "rio de janeiro" "rio de janeiro" 3304557 RJ 1 2011 1 1
+712 1 31 8 15 155208707 1 9 2 2 2 1 1 6 15 5 1 2012 1552 goias goiania NA NA 0 NA 0 NA
+728 1 34 15 15 152301950 1 1 2 1 4 2 2 7 12 1 1 2012 1523 ceara barreira NA NA 0 NA 0 NA
+1134 1 26 8 15 152802908 1 3 2 3 2 2 1 6 16 1 1 2012 1528 sergipe itabaiana NA NA 0 NA 0 NA
+43 2 22 10 15 152604106 1 9 3 3 2 1 1 3 9 5 1 2012 1526 pernambuco caruaru NA NA 0 NA 0 NA
+1204 1 48 5 15 152304400 1 NA 2 3 1 2 6 6 6 4 2 2012 1523 ceara fortaleza NA NA 0 NA 0 NA
+1189 2 28 8 15 153510609 1 5 2 3 3 3 1 5 11 1 4 2012 1535 "sao paulo" carapicuiba NA NA 0 NA 0 NA
+1220 1 37 11 15 151502202 1 5 2 4 2 1 2 7 16 5 1 2012 1515 para NA NA NA 0 NA 0 NA
+997 2 52 8 15 153502101 1 4 3 2 1 2 5 4 15 5 1 2012 1535 "sao paulo" andradina NA NA 0 NA 0 NA
+1003 1 26 9 15 154318309 1 8 3 4 4 2 3 5 16 5 1 2012 1543 "rio grande do sul" "sao gabriel" NA NA 0 NA 0 NA
+1390 1 57 8 15 3550308 1 2 2 3 1 1 1 3 16 1 1 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+1083 1 46 4 15 154320008 1 10 3 3 2 2 1 7 9 1 2 2012 1543 "rio grande do sul" "sapucaia do sul" NA NA 0 NA 0 NA
+1231 1 39 11 15 152111300 1 3 2 3 4 1 1 2 16 5 2 2012 1521 maranhao "sao luis" NA NA 0 NA 0 NA
+934 2 29 15 15 153518800 1 5 2 2 2 2 1 4 14 1 2 2012 1535 "sao paulo" guarulhos NA NA 0 NA 0 NA
+669 1 78 2 15 151100452 1 NA 2 2 2 2 6 6 13 1 2 2012 1511 rondonia buritis NA NA 0 NA 0 NA
+1154 1 25 11 15 153304557 1 5 1 3 2 2 1 7 16 5 1 2012 1533 "rio de janeiro" "rio de janeiro" 3304557 RJ 1 2011 1 1
+1227 1 61 10 15 152927408 1 8 2 4 4 1 1 7 9 4 1 2012 1529 bahia salvador NA NA 0 NA 0 NA
+1017 1 74 2 15 155003207 1 NA 3 4 4 2 6 4 7 3 2 2012 1550 "mato grosso do sul" corumba NA NA 0 NA 0 NA
+1313 1 21 9 15 15355030 1 10 2 2 1 2 1 NA 16 1 1 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+979 1 31 11 15 153167707 1 5 2 1 2 2 1 6 9 5 2 2012 1531 "minas gerais" sobralia NA NA 0 NA 0 NA
+1290 2 45 14 15 153550308 1 5 1 2 2 2 1 4 11 1 1 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+702 1 44 11 15 155204706 1 8 2 2 2 2 1 5 16 5 1 2012 1552 goias campinorte NA NA 0 NA 0 NA
+1106 1 35 11 15 152403251 1 NA 2 2 2 1 1 5 10 4 1 2012 1524 "rio grande do norte" parnamirim NA NA 0 NA 0 NA
+1400 1 24 11 15 153170800 1 3 4 4 2 2 2 3 16 1 3 2012 1531 "minas gerais" "varzea da palma" NA NA 0 NA 0 NA
+980 2 21 12 15 153136306 1 3 2 3 1 3 1 7 12 1 1 2012 1531 "minas gerais" "joao pinheiro" NA NA 0 NA 0 NA
+1008 1 30 7 15 155208707 1 5 2 3 3 1 1 6 16 1506 2 2012 1552 goias goiania NA NA 0 NA 0 NA
+731 1 24 11 15 152307650 1 5 2 2 2 1 1 5 11 4 2 2012 1523 ceara maracanau NA NA 0 NA 0 NA
+1046 2 53 8 15 154209102 1 1 3 2 3 2 1 1 16 1 5 2012 1542 "santa catarina" joinville NA NA 0 NA 0 NA
+1323 2 54 1 15 153304144 1 8 2 2 2 2 1 7 10 5 1 2012 1533 "rio de janeiro" queimados NA NA 0 NA 0 NA
+1122 2 19 11 15 152507507 1 3 3 3 4 3 3 5 16 5 1 2012 1525 paraiba "joao pessoa" NA NA 0 NA 0 NA
+45 2 35 11 15 151302603 1 8 2 2 2 1 7 7 8 5 NA 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+1382 1 19 11 15 154106902 1 3 4 2 3 3 3 5 16 5 3 2012 1541 parana curitiba NA NA 0 NA 0 NA
+964 1 74 7 15 153502101 1 4 2 2 1 1 6 3 13 1 4 2012 1535 "sao paulo" andradina NA NA 0 NA 0 NA
+1373 1 64 7 15 153304144 1 6 1 1 1 2 6 7 7 5 1 2012 1533 "rio de janeiro" queimados NA NA 0 NA 0 NA
+1339 1 36 13 15 153303955 1 5 2 3 1 2 1 7 16 5 1 2012 1533 "rio de janeiro" pinheiral NA NA 0 NA 0 NA
+1070 1 49 11 15 154100707 1 1 3 4 4 2 1 5 16 1 1 2012 1541 parana "alto piquiri" NA NA 0 NA 0 NA
+41 1 60 5 15 151302603 1 5 3 2 2 2 6 7 16 5 1 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+1 2 19 10 15 152611606 1 1 3 4 3 3 4 1 8 1 5 2012 1526 pernambuco recife NA NA 0 NA 0 NA
+737 1 18 11 15 155204706 1 10 2 3 3 2 2 6 16 1 1 2012 1552 goias campinorte NA NA 0 NA 0 NA
+1111 2 49 11 15 153301702 1 5 3 3 NA 2 1 5 10 4 2 2012 1533 "rio de janeiro" "duque de caxias" NA NA 0 NA 0 NA
+1107 1 32 17 15 152507507 1 1 1 3 3 1 1 7 16 1 1 2012 1525 paraiba "joao pessoa" NA NA 0 NA 0 NA
+987 1 58 4 15 153548708 1 NA 2 3 2 2 1 6 15 1 2 2012 1535 "sao paulo" "sao bernardo do campo" NA NA 0 NA 0 NA
+679 1 30 17 15 151501402 1 5 2 3 3 1 1 7 16 1506 2 2012 1515 para belem NA NA 0 NA 0 NA
+1344 2 27 15 15 153522703 1 6 4 3 2 3 3 4 16 1 4 2012 1535 "sao paulo" itapolis NA NA 0 NA 0 NA
+637 1 58 11 15 152933208 1 1 2 3 2 2 1 7 15 5 1 2012 1529 bahia "vera cruz" NA NA 0 NA 0 NA
+621 1 45 8 15 155107602 1 10 3 2 3 2 1 7 15 1 1 2012 1551 "mato grosso" rondonopolis NA NA 0 NA 0 NA
+1040 2 26 16 15 154209102 1 5 4 2 2 1 1 7 16 1 3 2012 1542 "santa catarina" joinville NA NA 0 NA 0 NA
+914 1 23 11 15 151301902 1 8 1 3 2 3 1 6 8 5 2 2012 1513 amazonas itacoatiara NA NA 0 NA 0 NA
+1358 2 43 16 15 3515004 1 3 1 2 1 1 1 7 16 5 1 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+1270 1 43 11 15 154309308 1 5 3 2 2 2 1 2 16 1 1 2012 1543 "rio grande do sul" guaiba NA NA 0 NA 0 NA
+1397 2 31 11 15 153549904 1 5 3 4 3 2 1 7 16 1 1 2012 1535 "sao paulo" "sao jose dos campos" NA NA 0 NA 0 NA
+1198 1 23 8 15 153548708 1 5 2 3 3 3 1 7 10 1506 4 2012 1535 "sao paulo" "sao bernardo do campo" NA NA 0 NA 0 NA
+986 2 30 3 15 153305208 1 10 3 3 1 3 6 7 15 5 1 2012 1533 "rio de janeiro" "sao pedro da aldeia" NA NA 0 NA 0 NA
+1027 1 25 11 15 155208400 1 2 4 3 4 2 1 6 9 5 1 2012 1552 goias goianapolis NA NA 0 NA 0 NA
+922 1 29 11 15 152304400 1 1 2 3 1 2 1 7 9 5 1 2012 1523 ceara fortaleza NA NA 0 NA 0 NA
+1191 1 56 11 15 153549904 1 10 2 4 2 2 6 4 16 1 1 2012 1535 "sao paulo" "sao jose dos campos" NA NA 0 NA 0 NA
+1230 2 24 11 15 152105302 1 6 3 3 3 2 1 4 7 5 2 2012 1521 maranhao imperatriz NA NA 0 NA 0 NA
+723 1 42 8 15 152304400 1 10 1 1 NA 1 1 5 11 5 1 2012 1523 ceara fortaleza NA NA 0 NA 0 NA
+614 1 44 8 15 155208707 1 NA 2 4 4 1 1 6 14 5 1 2012 1552 goias goiania NA NA 0 NA 0 NA
+1331 1 34 11 15 153521101 1 3 4 4 2 2 1 6 16 1 5 2012 1535 "sao paulo" ipeuna NA NA 0 NA 0 NA
+931 2 31 11 15 152408102 1 6 3 3 1 3 5 7 14 1 1 2012 1524 "rio grande do norte" natal NA NA 0 NA 0 NA
+1186 1 36 3 15 153152501 1 8 2 3 1 2 6 7 12 1 1 2012 1531 "minas gerais" "pouso alegre" NA NA 0 NA 0 NA
+1460 1 45 6 15 153515004 1 4 2 2 1 2 3 5 9 1 1 2012 1535 "sao paulo" embu NA NA 0 NA 0 NA
+656 2 46 4 15 151100205 1 6 2 2 2 2 5 6 15 5 1 2012 1511 rondonia "porto velho" NA NA 0 NA 0 NA
+1309 1 34 12 15 153522703 1 6 3 2 2 3 6 3 11 1 2 2012 1535 "sao paulo" itapolis NA NA 0 NA 0 NA
+993 1 45 5 15 153136306 1 3 2 2 3 2 1 6 13 4 2 2012 1531 "minas gerais" "joao pinheiro" NA NA 0 NA 0 NA
+1021 1 29 13 15 155003207 1 5 3 3 3 2 1 7 13 1 1 2012 1550 "mato grosso do sul" corumba NA NA 0 NA 0 NA
+947 1 19 11 15 153159605 1 5 2 2 3 1 2 5 10 4 1 2012 1531 "minas gerais" "santa rita do sapucai" NA NA 0 NA 0 NA
+1247 2 30 11 15 152910800 1 4 3 2 2 3 3 7 10 4 1 2012 1529 bahia "feira de santana" NA NA 0 NA 0 NA
+1117 1 35 5 15 152611606 1 10 3 4 4 2 1 5 6 5 1 2012 1526 pernambuco recife NA NA 0 NA 0 NA
+1066 2 20 13 15 154113700 1 2 2 4 4 2 4 7 10 5 5 2012 1541 parana londrina NA NA 0 NA 0 NA
+1351 2 57 11 15 153522703 1 4 3 2 1 2 5 4 15 1 3 2012 1535 "sao paulo" itapolis NA NA 0 NA 0 NA
+1496 2 56 3 15 155208707 1 NA 2 4 4 2 3 6 8 4 1 2012 1552 goias goiania NA NA 0 NA 0 NA
+957 1 35 9 15 153550308 1 7 2 2 2 2 1 5 14 4 1 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+1081 1 23 11 15 154215802 1 1 4 2 2 3 1 7 8 1 2 2012 1542 "santa catarina" "sao bento do sul" NA NA 0 NA 0 NA
+1450 1 20 11 15 153304144 1 5 3 2 2 2 1 7 16 1 1 2012 1533 "rio de janeiro" queimados NA NA 0 NA 0 NA
+992 1 45 8 15 153167707 1 6 2 2 2 1 1 3 16 4 2 2012 1531 "minas gerais" sobralia NA NA 0 NA 0 NA
+652 2 50 9 15 151301902 1 10 2 1 2 2 5 6 7 5 2 2012 1513 amazonas itacoatiara NA NA 0 NA 0 NA
+913 1 20 11 15 151302603 1 4 3 3 2 3 7 4 8 1 3 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+1242 2 58 10 15 151302603 1 4 2 3 2 3 1 3 12 1506 1 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+1147 1 36 11 15 152504603 1 5 2 4 4 2 1 5 12 3 1 2012 1525 paraiba conde NA NA 0 NA 0 NA
+705 1 25 11 15 152307650 1 5 2 3 3 1 7 6 10 5 2 2012 1523 ceara maracanau NA NA 0 NA 0 NA
+662 2 26 12 15 151301902 1 5 2 1 2 2 5 4 NA 4 1 2012 1513 amazonas itacoatiara NA NA 0 NA 0 NA
+927 2 45 5 15 152604106 1 8 2 3 3 1 2 2 14 1 2 2012 1526 pernambuco caruaru NA NA 0 NA 0 NA
+1281 1 21 13 15 154320008 1 1 3 2 2 3 1 7 12 1 1 2012 1543 "rio grande do sul" "sapucaia do sul" NA NA 0 NA 0 NA
+1310 2 33 4 15 153522703 1 6 3 4 3 1 5 6 11 1 2 2012 1535 "sao paulo" itapolis NA NA 0 NA 0 NA
+1165 1 29 15 15 153106200 1 8 3 2 3 1 1 6 16 5 1 2012 1531 "minas gerais" "belo horizonte" NA NA 0 NA 0 NA
+943 1 60 4 15 153304557 1 7 4 4 3 3 1 4 16 5 2 2012 1533 "rio de janeiro" "rio de janeiro" 3304557 RJ 1 2011 1 1
+704 1 42 4 15 152806602 1 5 2 3 1 2 2 7 8 4 1 2012 1528 sergipe "santo amaro das brotas" NA NA 0 NA 0 NA
+1098 1 51 8 15 153300456 1 5 2 3 2 2 1 7 10 5 3 2012 1533 "rio de janeiro" "belford roxo" NA NA 0 NA 0 NA
+706 1 39 6 15 152304400 1 NA 3 1 1 3 2 7 15 5 5 2012 1523 ceara fortaleza NA NA 0 NA 0 NA
+722 1 24 3 15 155208707 1 8 2 3 3 2 1 5 14 5 2 2012 1552 goias goiania NA NA 0 NA 0 NA
+1031 2 57 4 15 155002704 1 6 3 2 2 2 5 5 15 1 2 2012 1550 "mato grosso do sul" "campo grande" NA NA 0 NA 0 NA
+1459 1 24 11 15 153502101 1 5 2 2 2 2 1 6 16 1 3 2012 1535 "sao paulo" andradina NA NA 0 NA 0 NA
+1092 2 21 12 15 154100707 1 1 2 1 2 2 4 2 16 4 3 2012 1541 parana "alto piquiri" NA NA 0 NA 0 NA
+640 2 23 8 15 152803609 1 3 3 3 2 1 2 5 8 5 1 2012 1528 sergipe laranjeiras NA NA 0 NA 0 NA
+973 1 55 4 15 154115606 1 10 2 4 4 2 1 3 16 4 4 2012 1541 parana matelandia NA NA 0 NA 0 NA
+995 1 56 11 15 153549904 1 5 2 2 1 1 1 5 NA 1 2 2012 1535 "sao paulo" "sao jose dos campos" NA NA 0 NA 0 NA
+1166 1 35 11 15 153106200 1 8 3 2 3 1 1 5 16 5 1 2012 1531 "minas gerais" "belo horizonte" NA NA 0 NA 0 NA
+1058 2 23 11 15 154217709 1 1 3 2 2 2 3 2 8 1 2 2012 1542 "santa catarina" sombrio NA NA 0 NA 0 NA
+975 2 28 10 15 153104007 1 5 1 3 NA 3 5 4 16 1 1 2012 1531 "minas gerais" araxa NA NA 0 NA 0 NA
+711 1 36 9 15 155204706 1 1 2 2 2 1 1 6 14 5 1 2012 1552 goias campinorte NA NA 0 NA 0 NA
+717 2 24 9 15 155300108 1 5 3 2 3 2 1 5 13 1 2 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+1264 1 26 11 15 153549904 1 5 3 3 2 3 1 5 16 3 1 2012 1535 "sao paulo" "sao jose dos campos" NA NA 0 NA 0 NA
+1022 1 52 17 15 154318309 1 5 2 3 4 3 1 7 16 5 5 2012 1543 "rio grande do sul" "sao gabriel" NA NA 0 NA 0 NA
+1228 1 27 11 15 152927408 1 4 3 4 4 2 1 7 11 5 1 2012 1529 bahia salvador NA NA 0 NA 0 NA
+1352 1 67 4 15 154106902 1 5 2 2 3 2 6 1 16 4 3 2012 1541 parana curitiba NA NA 0 NA 0 NA
+635 2 57 7 15 151504208 1 NA 2 3 NA 2 1 5 16 5 2 2012 1515 para NA NA NA 0 NA 0 NA
+929 1 46 4 15 152604106 1 5 3 4 4 3 7 3 0 5 1 2012 1526 pernambuco caruaru NA NA 0 NA 0 NA
+1226 2 43 11 15 151501402 1 NA 3 2 3 2 5 7 13 5 4 2012 1515 para belem NA NA 0 NA 0 NA
+948 1 42 0 15 153159605 1 5 2 3 2 3 7 6 6 5 2 2012 1531 "minas gerais" "santa rita do sapucai" NA NA 0 NA 0 NA
+1311 2 49 4 15 153521101 1 5 2 3 2 2 1 7 15 1 2 2012 1535 "sao paulo" ipeuna NA NA 0 NA 0 NA
+1415 2 23 11 15 152105302 1 4 2 3 2 1 5 5 15 1506 1 2012 1521 maranhao imperatriz NA NA 0 NA 0 NA
+626 1 46 11 15 155300108 1 7 1 1 1 2 1 1 16 4 2 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+971 1 80 1 15 153525003 1 5 3 4 2 2 6 7 10 5 1 2012 1535 "sao paulo" jandira NA NA 0 NA 0 NA
+1188 1 66 4 15 153304557 1 1 3 2 1 2 6 4 8 1 4 2012 1533 "rio de janeiro" "rio de janeiro" 3304557 RJ 1 2011 1 1
+1139 2 25 11 15 152307650 1 10 3 1 NA 1 2 6 NA 5 5 2012 1523 ceara maracanau NA NA 0 NA 0 NA
+1389 1 56 15 15 3550308 1 10 3 4 1 2 1 7 16 4 2 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+616 2 20 8 15 155201405 1 5 3 2 2 3 5 1 8 5 4 2012 1552 goias "aparecida de goiania" NA NA 0 NA 0 NA
+1481 2 48 14 15 154314902 1 5 2 3 2 2 1 6 14 1 1 2012 1543 "rio grande do sul" "porto alegre" NA NA 0 NA 0 NA
+1000 2 31 9 15 153300456 1 2 1 4 4 3 3 7 16 4 5 2012 1533 "rio de janeiro" "belford roxo" NA NA 0 NA 0 NA
+991 2 34 11 15 153167707 1 4 3 1 2 1 5 5 10 5 1 2012 1531 "minas gerais" sobralia NA NA 0 NA 0 NA
+932 1 35 11 15 153518800 1 8 2 2 1 1 1 4 15 5 2 2012 1535 "sao paulo" guarulhos NA NA 0 NA 0 NA
+1426 1 43 2 15 152604106 1 6 2 1 1 1 2 NA 5 5 1 2012 1526 pernambuco caruaru NA NA 0 NA 0 NA
+939 2 78 4 15 153152501 1 9 1 3 2 3 6 6 16 1 1 2012 1531 "minas gerais" "pouso alegre" NA NA 0 NA 0 NA
+1420 2 49 11 15 152307650 1 1 2 2 3 1 2 6 10 5 1 2012 1523 ceara maracanau NA NA 0 NA 0 NA
+738 2 33 6 15 155204706 1 NA 2 2 3 2 1 7 12 5 1 2012 1552 goias campinorte NA NA 0 NA 0 NA
+732 1 22 11 15 152301950 1 5 2 3 2 1 1 6 16 1 2 2012 1523 ceara barreira NA NA 0 NA 0 NA
+1006 2 31 11 15 155208707 1 9 2 2 2 1 7 6 9 5 2 2012 1552 goias goiania NA NA 0 NA 0 NA
+996 2 38 11 15 153502101 1 NA 3 3 3 2 1 4 15 1 3 2012 1535 "sao paulo" andradina NA NA 0 NA 0 NA
+985 2 22 8 15 153167707 1 3 2 2 2 1 1 4 6 5 1 2012 1531 "minas gerais" sobralia NA NA 0 NA 0 NA
+36 1 34 11 15 151302603 1 3 3 4 2 2 1 5 12 3 NA 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+945 1 35 4 15 153550308 1 5 2 2 2 3 1 4 14 1 1 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+1252 1 52 16 15 154314100 1 4 2 3 3 1 1 6 16 1 1 2012 1543 "rio grande do sul" "passo fundo" NA NA 0 NA 0 NA
+1140 2 21 12 15 152802908 1 3 3 3 2 2 1 6 10 5 2 2012 1528 sergipe itabaiana NA NA 0 NA 0 NA
+1237 1 31 11 15 151100205 1 5 1 2 3 1 1 4 16 5 1 2012 1511 rondonia "porto velho" NA NA 0 NA 0 NA
+1414 1 25 8 15 151504208 1 NA 3 3 3 3 1 4 9 5 1 2012 1515 para NA NA NA 0 NA 0 NA
+1050 1 45 11 15 155300108 1 6 2 2 1 1 2 6 16 5 2 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+1121 2 57 15 15 152927408 1 6 2 4 2 2 1 7 11 4 1 2012 1529 bahia salvador NA NA 0 NA 0 NA
+30 2 43 7 15 151302603 1 5 3 2 2 2 5 7 16 5 NA 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+1110 2 38 6 15 153305208 1 5 3 3 NA 2 1 6 7 5 1 2012 1533 "rio de janeiro" "sao pedro da aldeia" NA NA 0 NA 0 NA
+1136 1 27 13 15 152403251 1 NA 3 2 2 1 1 5 9 4 2 2012 1524 "rio grande do norte" parnamirim NA NA 0 NA 0 NA
+1275 1 36 8 15 152607901 1 7 2 2 4 1 2 7 2 5 2 2012 1526 pernambuco "jaboatao dos guararapes" NA NA 0 NA 0 NA
+1034 1 29 16 15 155208400 1 1 5 3 4 3 1 7 10 5 1 2012 1552 goias goianapolis NA NA 0 NA 0 NA
+966 1 50 4 15 153159605 1 7 2 1 1 1 6 4 15 5 1 2012 1531 "minas gerais" "santa rita do sapucai" NA NA 0 NA 0 NA
+638 2 49 16 15 152803609 1 5 3 3 2 2 1 7 16 1 1 2012 1528 sergipe laranjeiras NA NA 0 NA 0 NA
+1305 2 31 11 15 15355030 1 8 3 2 2 3 1 3 NA 5 1 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+14 1 43 5 15 152403251 1 3 2 2 2 1 2 6 11 1 4 2012 1524 "rio grande do norte" parnamirim NA NA 0 NA 0 NA
+1075 1 37 7 15 155215231 1 7 3 3 3 2 1 3 16 1 2 2012 1552 goias "novo gama" NA NA 0 NA 0 NA
+1210 2 26 6 15 151501303 1 NA 3 2 2 1 5 4 13 5 1 2012 1515 para NA NA NA 0 NA 0 NA
+1038 2 27 12 15 155208400 1 1 2 2 1 1 3 6 10 1506 1 2012 1552 goias goianapolis NA NA 0 NA 0 NA
+953 1 18 11 15 153300456 1 5 2 4 4 3 3 3 11 4 3 2012 1533 "rio de janeiro" "belford roxo" NA NA 0 NA 0 NA
+1393 1 49 5 15 154217709 1 1 3 2 2 2 1 6 10 5 2 2012 1542 "santa catarina" sombrio NA NA 0 NA 0 NA
+1284 1 32 6 15 155208707 1 6 2 3 4 1 1 5 16 4 2 2012 1552 goias goiania NA NA 0 NA 0 NA
+1372 2 52 11 15 3550308 1 4 2 4 4 2 1 5 10 1 3 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+919 1 20 6 15 152515005 1 10 1 3 3 NA 2 6 5 5 1 2012 1525 paraiba "sao miguel de taipu" NA NA 0 NA 0 NA
+1490 2 49 5 15 155107602 1 NA 3 3 3 2 5 7 13 4 2 2012 1551 "mato grosso" rondonopolis NA NA 0 NA 0 NA
+1129 2 66 11 15 152408102 1 1 3 2 2 1 1 5 6 1506 2 2012 1524 "rio grande do norte" natal NA NA 0 NA 0 NA
+1330 1 28 8 15 153521101 1 5 2 3 3 2 1 7 15 5 1 2012 1535 "sao paulo" ipeuna NA NA 0 NA 0 NA
+1041 1 51 4 15 154209102 1 1 3 2 3 1 1 7 12 1 1 2012 1542 "santa catarina" joinville NA NA 0 NA 0 NA
+1384 2 22 15 15 153122306 1 6 2 2 2 1 1 2 16 1 1 2012 1531 "minas gerais" divinopolis NA NA 0 NA 0 NA
+676 2 21 12 15 151502202 1 1 2 2 2 2 4 7 14 5 1 2012 1515 para NA NA NA 0 NA 0 NA
+735 1 30 11 15 155212303 1 1 2 4 2 1 1 6 14 5 1 2012 1552 goias "leopoldo de bulhoes" NA NA 0 NA 0 NA
+4 2 36 11 15 152515005 1 1 3 1 3 1 2 1 16 3 2 2012 1525 paraiba "sao miguel de taipu" NA NA 0 NA 0 NA
+984 1 59 4 15 153136306 1 9 2 2 4 1 1 6 16 5 3 2012 1531 "minas gerais" "joao pinheiro" NA NA 0 NA 0 NA
+958 1 40 8 15 153525003 1 1 3 4 4 2 1 1 16 4 2 2012 1535 "sao paulo" jandira NA NA 0 NA 0 NA
+1475 1 18 11 15 154113700 1 2 2 2 2 1 1 3 12 4 5 2012 1541 parana londrina NA NA 0 NA 0 NA
+1155 1 60 11 15 153538006 1 10 1 4 3 2 1 7 16 1 1 2012 1535 "sao paulo" pindamonhangaba NA NA 0 NA 0 NA
+653 2 54 8 15 151501501 1 NA 3 2 3 2 2 4 15 5 2 2012 1515 para NA NA NA 0 NA 0 NA
+628 2 26 11 15 155300108 1 5 2 3 2 1 2 5 10 4 2 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+718 2 21 9 15 155300108 1 7 3 3 3 2 1 6 11 1 2 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+33 2 33 5 15 151100452 1 9 1 2 2 2 5 1 11 5 2 2012 1511 rondonia buritis NA NA 0 NA 0 NA
+935 2 19 11 15 153550308 1 9 2 2 2 2 5 6 11 1 1 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+1128 2 47 11 15 152408102 1 6 2 2 2 2 2 6 16 1 1 2012 1524 "rio grande do norte" natal NA NA 0 NA 0 NA
+1187 1 45 10 15 153538006 1 10 2 2 3 2 1 7 16 1 1 2012 1535 "sao paulo" pindamonhangaba NA NA 0 NA 0 NA
+1345 1 65 6 15 153303955 1 10 3 3 2 2 6 7 NA 1 1 2012 1533 "rio de janeiro" pinheiral NA NA 0 NA 0 NA
+22 2 45 11 15 152927408 1 6 3 2 2 1 1 7 16 5 4 2012 1529 bahia salvador NA NA 0 NA 0 NA
+644 2 35 7 15 151302603 1 5 3 4 2 1 1 5 12 5 NA 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+631 2 36 7 15 155215231 1 5 3 2 2 2 1 3 16 1 1 2012 1552 goias "novo gama" NA NA 0 NA 0 NA
+1500 1 28 11 15 155300108 1 5 3 2 1 2 1 3 6 1 1 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+1219 2 31 15 15 152111300 1 7 3 4 4 1 5 2 16 4 2 2012 1521 maranhao "sao luis" NA NA 0 NA 0 NA
+1308 1 30 8 15 153304557 1 1 3 3 4 2 1 5 15 1 1 2012 1533 "rio de janeiro" "rio de janeiro" 3304557 RJ 1 2011 1 1
+2 1 27 8 15 151501402 1 5 3 4 4 1 1 6 15 5 2 2012 1515 para belem NA NA 0 NA 0 NA
+663 2 44 9 15 151501501 1 10 2 2 2 2 2 7 10 5 1 2012 1515 para NA NA NA 0 NA 0 NA
+951 1 19 11 15 152507507 1 NA 3 2 3 2 3 3 6 1 2 2012 1525 paraiba "joao pessoa" NA NA 0 NA 0 NA
+1304 1 59 11 15 15355030 1 6 3 4 2 2 1 7 14 1 1 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+685 1 52 8 15 151501501 1 NA 2 1 1 2 2 7 12 5 1 2012 1515 para NA NA NA 0 NA 0 NA
+1023 2 63 11 15 154318309 1 8 1 4 4 3 6 3 12 5 1 2012 1543 "rio grande do sul" "sao gabriel" NA NA 0 NA 0 NA
+1239 1 33 11 15 152927408 1 NA 2 4 4 3 2 7 16 5 1 2012 1529 bahia salvador NA NA 0 NA 0 NA
+1223 2 57 10 15 151500107 1 NA 3 3 3 2 5 7 5 5 1 2012 1515 para NA NA NA 0 NA 0 NA
+1049 1 26 17 15 155300108 1 8 3 2 2 1 1 5 6 1 2 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+688 2 28 15 15 151400100 1 10 1 3 4 1 1 6 16 5 2 2012 1514 roraima "boa vista" NA NA 0 NA 0 NA
+1269 1 32 11 15 154309308 1 4 2 3 3 2 1 7 16 1 2 2012 1543 "rio grande do sul" guaiba NA NA 0 NA 0 NA
+911 1 18 9 15 153304557 1 5 5 2 1 2 3 5 NA 5 3 2012 1533 "rio de janeiro" "rio de janeiro" 3304557 RJ 1 2011 1 1
+625 2 46 8 15 155106208 1 5 3 3 3 2 1 7 13 5 1 2012 1551 "mato grosso" "nova brasilandia" NA NA 0 NA 0 NA
+923 1 20 11 15 152927408 1 5 3 3 3 1 7 3 16 4 3 2012 1529 bahia salvador NA NA 0 NA 0 NA
+1457 1 40 4 15 153304557 1 1 3 2 3 3 1 5 13 4 5 2012 1533 "rio de janeiro" "rio de janeiro" 3304557 RJ 1 2011 1 1
+1492 2 39 8 15 155204805 1 10 2 3 3 3 5 7 10 5 1 2012 1552 goias "campo alegre de goias" NA NA 0 NA 0 NA
+989 1 42 16 15 153104007 1 8 1 2 3 1 1 7 16 1 1 2012 1531 "minas gerais" araxa NA NA 0 NA 0 NA
+1184 1 27 11 15 153520509 1 4 3 3 1 2 1 4 16 1 1 2012 1535 "sao paulo" indaiatuba NA NA 0 NA 0 NA
+1216 1 19 11 15 152806602 1 5 3 3 3 1 2 7 10 1 2 2012 1528 sergipe "santo amaro das brotas" NA NA 0 NA 0 NA
+629 2 45 11 15 155300108 1 6 5 2 3 2 1 5 13 5 2 2012 1553 "distrito federal" brasilia 5300108 DF 1 2011 1 1
+1244 1 30 11 15 151500107 1 8 3 3 3 1 1 6 14 5 1 2012 1515 para NA NA NA 0 NA 0 NA
+977 1 32 11 15 153202454 1 10 2 2 NA 1 1 6 11 1 1 2012 1532 "espirito santo" ibatiba NA NA 0 NA 0 NA
+649 2 24 11 15 151502202 1 10 2 3 1 1 5 7 16 4 1 2012 1515 para NA NA NA 0 NA 0 NA
+727 2 50 4 15 152304400 1 10 2 1 NA 2 7 7 7 1 1 2012 1523 ceara fortaleza NA NA 0 NA 0 NA
+610 1 53 11 15 151302603 1 4 2 3 2 2 1 3 11 5 2 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+617 2 42 8 15 155201405 1 5 2 2 2 1 1 5 12 1 2 2012 1552 goias "aparecida de goiania" NA NA 0 NA 0 NA
+1100 1 60 8 15 154317103 1 1 2 4 3 2 6 1 14 1506 3 2012 1543 "rio grande do sul" "santana do livramento" NA NA 0 NA 0 NA
+613 1 36 11 15 155201405 1 5 3 2 2 1 1 5 16 1 2 2012 1552 goias "aparecida de goiania" NA NA 0 NA 0 NA
+1442 1 18 11 15 153122306 1 5 2 3 2 1 1 5 16 1 1 2012 1531 "minas gerais" divinopolis NA NA 0 NA 0 NA
+1367 1 53 5 15 3515004 1 5 2 3 2 2 1 7 13 4 1 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+38 1 72 4 15 151100452 1 5 2 2 2 2 6 7 15 5 1 2012 1511 rondonia buritis NA NA 0 NA 0 NA
+1024 1 38 11 15 155003207 1 NA 2 3 3 2 1 7 12 5 1 2012 1550 "mato grosso do sul" corumba NA NA 0 NA 0 NA
+933 1 55 17 15 153518800 1 7 3 4 1 2 1 3 16 1 2 2012 1535 "sao paulo" guarulhos NA NA 0 NA 0 NA
+1174 2 23 11 15 153510609 1 5 3 3 3 1 5 5 10 5 1 2012 1535 "sao paulo" carapicuiba NA NA 0 NA 0 NA
+740 1 39 11 15 155103403 1 9 3 3 2 1 1 5 16 5 2 2012 1551 "mato grosso" cuiaba NA NA 0 NA 0 NA
+651 2 42 0 15 151100452 1 1 2 1 1 1 5 1 16 5 2 2012 1511 rondonia buritis NA NA 0 NA 0 NA
+619 1 21 11 15 155201405 1 5 2 2 2 1 1 4 16 3 2 2012 1552 goias "aparecida de goiania" NA NA 0 NA 0 NA
+1096 2 50 11 15 3515004 1 2 2 3 2 3 6 7 14 1 1 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+1343 2 25 11 15 3515004 1 6 5 3 2 3 5 7 9 5 1 2012 1535 "sao paulo" NA NA NA 0 NA 0 NA
+693 1 31 11 15 151100205 1 10 2 3 3 1 3 5 15 1 1 2012 1511 rondonia "porto velho" NA NA 0 NA 0 NA
+950 2 18 9 15 154208302 1 5 4 2 2 2 5 6 6 5 2 2012 1542 "santa catarina" itapema NA NA 0 NA 0 NA
+627 2 47 7 15 155215231 1 1 3 3 3 2 2 4 16 3 2 2012 1552 goias "novo gama" NA NA 0 NA 0 NA
+745 2 30 11 15 155106208 1 5 2 3 2 2 5 7 12 5 1 2012 1551 "mato grosso" "nova brasilandia" NA NA 0 NA 0 NA
+1093 1 43 4 15 154115606 1 10 4 4 4 3 1 3 16 5 4 2012 1541 parana matelandia NA NA 0 NA 0 NA
+1007 2 45 2 15 155208707 1 3 2 3 2 1 5 7 10 4 1 2012 1552 goias goiania NA NA 0 NA 0 NA
+1157 1 18 9 15 153305208 1 1 3 3 3 3 1 5 16 4 2 2012 1533 "rio de janeiro" "sao pedro da aldeia" NA NA 0 NA 0 NA
+1357 2 39 3 15 154106902 1 NA 4 4 4 3 3 2 5 4 5 2012 1541 parana curitiba NA NA 0 NA 0 NA
+936 1 43 11 15 153550308 1 6 2 2 1 1 1 6 15 4 2 2012 1535 "sao paulo" "sao paulo" NA NA 0 NA 0 NA
+1288 2 78 1 15 154208302 1 NA 2 2 2 2 6 7 10 5 5 2012 1542 "santa catarina" itapema NA NA 0 NA 0 NA
+689 1 28 15 15 151302603 1 9 3 2 2 2 1 5 16 5 2 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+709 1 27 11 15 155107602 1 5 3 3 3 3 1 7 15 1 2 2012 1551 "mato grosso" rondonopolis NA NA 0 NA 0 NA
+1243 2 19 4 15 151302603 1 8 2 2 2 3 2 4 4 7 5 2012 1513 amazonas manaus NA NA 0 NA 0 NA
+1416 2 30 2 15 152301950 1 7 2 2 2 2 7 5 8 1506 2 2012 1523 ceara barreira NA NA 0 NA 0 NA
+1257 2 31 11 15 154209102 1 NA 3 2 3 2 1 7 NA 1 1 2012 1542 "santa catarina" joinville NA NA 0 NA 0 NA
+1221 1 53 7 15 152307650 1 10 3 3 NA 2 1 1 11 4 1 2012 1523 ceara maracanau NA NA 0 NA 0 NA
+8 1 59 1 15 152910800 1 7 4 2 1 3 2 2 NA 4 2 2012 1529 bahia "feira de santana" NA NA 0 NA 0 NA
+1014 1 31 11 15 154106902 1 1 2 4 NA 2 1 2 10 5 2 2012 1541 parana curitiba NA NA 0 NA 0 NA
+1292 1 30 10 15 154317103 1 7 1 2 3 1 3 7 10 1506 1 2012 1543 "rio grande do sul" "santana do livramento" NA NA 0 NA 0 NA
